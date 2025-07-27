@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">APK Manager</string>
+    <string name="installed_apps">Installed Apps</string>
+    <string name="system_apps">System Apps</string>
+    <string name="export_apk">Export APK</string>
+    <string name="apk_repository">APK Repository</string>
+    <string name="app_info">App Info</string>
+    <string name="package_name">Package Name</string>
+    <string name="version">Version</string>
+    <string name="size">Size</string>
+    <string name="install_date">Install Date</string>
+    <string name="export_success">APK exported successfully</string>
+    <string name="export_failed">Failed to export APK</string>
+    <string name="permission_required">Storage permission required</string>
+    <string name="search_apps">Search apps...</string>
+</resources>
